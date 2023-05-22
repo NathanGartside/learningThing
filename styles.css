@@ -1,0 +1,134 @@
+.timeline {
+    background-color: black;
+    height: 3px;
+    width: 1400px;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+}
+
+.first {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    bottom: 30px;
+}
+
+.first .date {
+    position: relative;
+    bottom: 20px;
+}
+
+.first .event {
+    position: relative;
+    bottom: 80px;
+    width: 180px;
+}
+
+.second {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 100px;
+    bottom: 47px;
+}
+
+.second .date {
+    position: relative;
+    top: 30px;
+    right: 15px;
+}
+
+.second .event {
+    position: relative;
+    top: 10px;
+    width: 180px;
+    right: 45px;
+}
+
+.third {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 250px;
+    bottom: 125px;
+}
+
+.third .date {
+    position: relative;
+    bottom: 20px;
+    right: 15px;
+}
+
+.third .event {
+    position: relative;
+    bottom: 80px;
+    width: 180px;
+    right: 70px;
+}
+
+.fourth {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 450px;
+    bottom: 145px;
+}
+
+.fourth .date {
+    position: relative;
+    top: 30px;
+    right: 15px;
+}
+
+.fourth .event {
+    position: relative;
+    top: 10px;
+    width: 180px;
+    right: 70px;
+}
+
+.fifth {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 450px;
+    bottom: 220px;
+}
+
+.fifth .date {
+    position: relative;
+    bottom: 20px;
+    right: 15px;
+}
+
+.fifth .event {
+    position: relative;
+    bottom: 100px;
+    width: 180px;
+    right: 80px;
+    text-align: center;
+}
+
+.content {
+    display: none;
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {
+    max-height: 250px;
+}
+
+.container {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 200px;
+    margin-top: 50px;
+}

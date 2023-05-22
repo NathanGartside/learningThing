@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The First Vision",
+        "img_url": "https://assets.churchofjesuschrist.org/d8/cc/d8cc7c06d5a2bb9a8ebd70380bab254ac7438b8f/first_vision_indonesian_folk_art.jpeg",
+        "descr": "“I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me. When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other—This is My Beloved Son. Hear Him!”"
+    },
+    {
+        "title": "The Angel Moroni",
+        "img_url": "https://assets.churchofjesuschrist.org/2a/b1/2ab1e5d1da7510200cd39088c4fb86cf6ce9811c/angel_moroni_delivering_the_plates_to_joseph_smith.jpeg",
+        "descr": "In 1823 an angel named Moroni appeared to Joseph Smith and told him of the existence of an ancient record engraved on plates, buried in a hill near his home. Moroni, the last ancient record keeper to inscribe his teachings on the plates, appeared to Joseph on a number of occasions between 1823 and 1829, guiding and mentoring Joseph as he obtained the plates and translated them. Though others produced fanciful or sensationalized accounts of the angel’s visits, Joseph Smith’s own accounts are simple, sober, and consistent. Joseph’s preparation to become a prophet began with his First Vision, but his early followers typically spoke of Moroni’s visit as marking the beginning of Joseph’s calling."
+    },
+    {
+        "title": "The Gold Plates",
+        "img_url": "https://assets.churchofjesuschrist.org/1e/34/1e34564bee1944096903da0d118509c511f5525b/replica_gold_plates.jpeg",
+        "descr": "“At length the time arrived for obtaining the plates, the Urim and Thummim, and the breastplate. On the twenty-second day of September, one thousand eight hundred and twenty-seven, having gone as usual at the end of another year to the place where they were deposited, the same heavenly messenger delivered them up to ame with this charge: that I should be responsible for them; that if I should let them go carelessly, or through any neglect of mine, I should be cut off; but that if I would use all my endeavors to preserve them, until he, the messenger, should call for them, they should be protected.”"
+    },
+    {
+        "title": "Book of Mormon",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezjWBAdhINCeWsQhfX_0kb6F2Azp8-nugmDl8CzSWQeGmO31klKM-rudo8Ak9WTZavo0&usqp=CAU",
+        "descr": "Joseph began translating again in 1829, and almost all of the present Book of Mormon text was translated during a three-month period between April and June of that year. His chief scribe during these months was Oliver Cowdery, a schoolteacher from Vermont who learned about the Book of Mormon while boarding with Joseph’s parents in Palmyra."
+    },
+    {
+        "title": "Restoration of the Priesthood",
+        "img_url": "https://assets.churchofjesuschrist.org/f3/16/f316e1d65be085cc95dfcb62cdd24bee572a03d8/restoration_melchizedek_priesthood.jpeg",
+        "descr": "While Joseph Smith and Oliver Cowdery were working on the translation of the Book of Mormon, they read about baptism for the remission of sins. On May 15, 1829, they went to a wooded area near Joseph’s home in Harmony, Pennsylvania, and prayed about what they had learned. In answer to their prayer, John the Baptist, under the direction of the Lord Jesus Christ, appeared and conferred upon them the Aaronic Priesthood."
+    }
+]
