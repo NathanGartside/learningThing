@@ -22,6 +22,21 @@ document.querySelector('.timeline').addEventListener('click', (event) => {
         case 'fifth':
             index = 4;
             break;
+        case 'sixth':
+            index = 5;
+            break;
+        case 'seventh':
+            index = 6;
+            break;
+        case 'eighth':
+            index = 7;
+            break;
+        case 'ninth':
+            index = 8;
+            break;
+        case 'tenth':
+            index = 9;
+            break;
         default:
     }
 

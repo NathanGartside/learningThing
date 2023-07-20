@@ -114,6 +114,120 @@
     right: 80px;
     text-align: center;
 }
+.sixth {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 650px;
+    bottom: 243px;
+}
+
+.sixth .date {
+    position: relative;
+    top: 30px;
+    right: 15px;
+}
+
+.sixth .event {
+    position: relative;
+    top: 10px;
+    width: 180px;
+    right: 80px;
+    text-align: center;
+}
+
+.seventh {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 750px;
+    bottom: 320px;
+}
+
+.seventh .date {
+    position: relative;
+    bottom: 20px;
+    right: 15px;
+}
+
+.seventh .event {
+    position: relative;
+    bottom: 80px;
+    width: 180px;
+    right: 80px;
+    text-align: center;
+}
+
+.eighth {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 850px;
+    bottom: 340px;
+}
+
+.eighth .date {
+    position: relative;
+    top: 30px;
+    right: 15px;
+}
+
+.eighth .event {
+    position: relative;
+    top: 10px;
+    width: 180px;
+    right: 80px;
+    text-align: center;
+}
+
+.ninth {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 930px;
+    bottom: 417px;
+}
+
+.ninth .date {
+    position: relative;
+    bottom: 20px;
+    right: 15px;
+}
+
+.ninth .event {
+    position: relative;
+    bottom: 80px;
+    width: 180px;
+    right: 80px;
+    text-align: center;
+}
+
+.tenth {
+    background-color: black;
+    height: 30px;
+    width: 5px;
+    position: relative;
+    left: 1030px;
+    bottom: 437px;
+}
+
+.tenth .date {
+    position: relative;
+    top: 30px;
+    right: 15px;
+}
+
+.tenth .event {
+    position: relative;
+    top: 10px;
+    width: 180px;
+    right: 80px;
+    text-align: center;
+}
 
 .content {
     display: none;
