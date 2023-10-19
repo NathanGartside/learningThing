@@ -7,6 +7,10 @@
     top: 100px;
 }
 
+.timeline div {
+    text-align: center;
+}
+
 .first {
     background-color: black;
     height: 30px;
@@ -15,15 +19,11 @@
     bottom: 30px;
 }
 
-.first .date {
-    position: relative;
-    bottom: 20px;
-}
-
 .first .event {
     position: relative;
-    bottom: 80px;
+    bottom: 20px;
     width: 180px;
+    text-align: left;
 }
 
 .second {
@@ -31,21 +31,15 @@
     height: 30px;
     width: 5px;
     position: relative;
-    left: 100px;
-    bottom: 47px;
-}
-
-.second .date {
-    position: relative;
-    top: 30px;
-    right: 15px;
+    left: 230px;
+    bottom: 77px;
 }
 
 .second .event {
     position: relative;
-    top: 10px;
+    bottom: 40px;
     width: 180px;
-    right: 45px;
+    right: 90px;
 }
 
 .third {
@@ -53,21 +47,15 @@
     height: 30px;
     width: 5px;
     position: relative;
-    left: 250px;
+    left: 460px;
     bottom: 125px;
-}
-
-.third .date {
-    position: relative;
-    bottom: 20px;
-    right: 15px;
 }
 
 .third .event {
     position: relative;
-    bottom: 80px;
+    bottom: 20px;
     width: 180px;
-    right: 70px;
+    right: 90px;
 }
 
 .fourth {
@@ -75,21 +63,15 @@
     height: 30px;
     width: 5px;
     position: relative;
-    left: 450px;
-    bottom: 145px;
-}
-
-.fourth .date {
-    position: relative;
-    top: 30px;
-    right: 15px;
+    left: 690px;
+    bottom: 175px;
 }
 
 .fourth .event {
     position: relative;
-    top: 10px;
+    top: -20px;
     width: 180px;
-    right: 70px;
+    right: 80px;
 }
 
 .fifth {
@@ -97,21 +79,15 @@
     height: 30px;
     width: 5px;
     position: relative;
-    left: 450px;
-    bottom: 220px;
-}
-
-.fifth .date {
-    position: relative;
-    bottom: 20px;
-    right: 15px;
+    left: 920px;
+    bottom: 225px;
 }
 
 .fifth .event {
     position: relative;
-    bottom: 100px;
+    bottom: 42px;
     width: 180px;
-    right: 80px;
+    right: 90px;
     text-align: center;
 }
 .sixth {
@@ -121,12 +97,6 @@
     position: relative;
     left: 650px;
     bottom: 243px;
-}
-
-.sixth .date {
-    position: relative;
-    top: 30px;
-    right: 15px;
 }
 
 .sixth .event {
@@ -146,12 +116,6 @@
     bottom: 320px;
 }
 
-.seventh .date {
-    position: relative;
-    bottom: 20px;
-    right: 15px;
-}
-
 .seventh .event {
     position: relative;
     bottom: 80px;
@@ -167,12 +131,6 @@
     position: relative;
     left: 850px;
     bottom: 340px;
-}
-
-.eighth .date {
-    position: relative;
-    top: 30px;
-    right: 15px;
 }
 
 .eighth .event {
@@ -192,12 +150,6 @@
     bottom: 417px;
 }
 
-.ninth .date {
-    position: relative;
-    bottom: 20px;
-    right: 15px;
-}
-
 .ninth .event {
     position: relative;
     bottom: 80px;
@@ -213,12 +165,6 @@
     position: relative;
     left: 1030px;
     bottom: 437px;
-}
-
-.tenth .date {
-    position: relative;
-    top: 30px;
-    right: 15px;
 }
 
 .tenth .event {
